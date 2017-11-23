@@ -8,3 +8,7 @@ The featues of this library are:
 - it will work asynchronous: your sketch starts an analog -> digital conversion and comes back later to get the result (which will start the next conversion). This will avoid waiting for the conversion to complete
 - fixed gain or automatic gain adjust. With automatic gain adjust the library will automatically choose the best full scale range
 - overflow detection. In case the input voltage exceeds the Full Scale
+
+Fur further information see the file ADS1015_async_library.pdf
+An Arduino example sketch is included.
+I have a similar library for the ADS1115 16 bit ADC in one of my repositories.
