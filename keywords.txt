@@ -5,19 +5,19 @@
 ###########################################
 # Datatypes (KEYWORD1)
 ###########################################
-I2Caddr        		KEYWORD1
-inputSelect	    	KEYWORD1
-autoGainAdjust		KEYWORD1
-setPGA	        	KEYWORD1
+I2Caddr	KEYWORD1
+inputSelect	KEYWORD1
+autoGainAdjust	KEYWORD1
+setPGA	KEYWORD1
 
 ###########################################
 # Methods and Functions (KEYWORD2)
 ###########################################
-begin                KEYWORD2
-poll                 KEYWORD2
-getVoltage           KEYWORD2
-getGain      		 KEYWORD2
-getPrecision         KEYWORD2
+begin	KEYWORD2
+poll	KEYWORD2
+getVoltage	KEYWORD2
+getGain	KEYWORD2
+getPrecision	KEYWORD2
 ###########################################
 # Constants (LITERAL1)
 ###########################################
